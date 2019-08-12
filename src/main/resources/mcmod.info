@@ -1,0 +1,16 @@
+[
+{
+  "modid": "containersplus",
+  "name": "Containers+",
+  "description": "A mod based around storage for alternatives to the normal-sized chest.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["matthyno"],
+  "credits": "The internet! ;)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

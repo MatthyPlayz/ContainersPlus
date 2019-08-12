@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "north": "containersplus:blocks/four_chest_front",
+        "up": "containersplus:blocks/four_chest_y",
+        "down": "containersplus:blocks/four_chest_y",
+        "south": "containersplus:blocks/four_chest_side",
+        "east": "containersplus:blocks/four_chest_side",
+        "west": "containersplus:blocks/four_chest_side"
+    }
+}
